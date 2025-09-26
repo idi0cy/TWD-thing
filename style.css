@@ -14,6 +14,11 @@ body {
     padding: 0px;
 }
 
+.center {
+    margin-top:auto;
+    margin-bottom:auto;
+}
+
 div {
     padding: 25px;
     text-align:center;
